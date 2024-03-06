@@ -1,4 +1,5 @@
-# Import filesystem and database helper packages
+import sys
+import psycopg2
 
 # Initial Checks
 
